@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generaciones en las que se organiza mi álbum de cartas Pokémon: región, año, primera expansión de cartas y precio orientativo de un sobre. -->
+<album propietario="AAnax-0">
+  <generacion id="G01">
+    <nombre>Generación 1</nombre>
+  </generacion>
+  <generacion id="G02">
+    <nombre>Generación 2</nombre>
+  </generacion>
+  <generacion id="G03">
+    <nombre>Generación 3</nombre>
+  </generacion>
+  <generacion id="G04">
+    <nombre>Generación 4</nombre>
+  </generacion>
+  <generacion id="G05">
+    <nombre>Generación 5</nombre>
+  </generacion>
+  <generacion id="G06">
+    <nombre>Generación 6</nombre>
+  </generacion>
+  <generacion id="G07">
+    <nombre>Generación 7</nombre>
+  </generacion>
+  <generacion id="G08">
+    <nombre>Generación 8</nombre>
+  </generacion>
+</album>
