@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Generaciones en las que se organiza mi álbum de cartas Pokémon: región, año, primera expansión de cartas y precio orientativo de un sobre. -->
+<!-- Generaciones en las que se organiza mi álbum de cartas Pokémon: región, año, primera expansión de cartas y precio de un sobre. -->
 <album propietario="AAnax-0">
   <generacion id="G01">
     <nombre>Generación 1</nombre>
