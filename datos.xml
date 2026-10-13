@@ -3,26 +3,59 @@
 <album propietario="AAnax-0">
   <generacion id="G01">
     <nombre>Generación 1</nombre>
+    <region>Kanto</region>
+    <anio>1996</anio>
+    <primera_expansion>Base Set</primera_expansion>
+    <precio_sobre moneda="EUR">450.00</precio_sobre>
+    <destacada/>
   </generacion>
   <generacion id="G02">
     <nombre>Generación 2</nombre>
+    <region>Johto</region>
+    <anio>1999</anio>
+    <primera_expansion>Neo Genesis</primera_expansion>
+    <precio_sobre moneda="EUR">300.00</precio_sobre>
   </generacion>
   <generacion id="G03">
     <nombre>Generación 3</nombre>
+    <region>Hoenn</region>
+    <anio>2002</anio>
+    <primera_expansion>EX Rubí y Zafiro</primera_expansion>
+    <precio_sobre moneda="EUR">250.00</precio_sobre>
   </generacion>
   <generacion id="G04">
     <nombre>Generación 4</nombre>
+    <region>Sinnoh</region>
+    <anio>2006</anio>
+    <primera_expansion>Diamante y Perla</primera_expansion>
+    <precio_sobre moneda="EUR">60.00</precio_sobre>
   </generacion>
   <generacion id="G05">
     <nombre>Generación 5</nombre>
+    <region>Teselia</region>
+    <anio>2010</anio>
+    <primera_expansion>Negro y Blanco</primera_expansion>
+    <precio_sobre moneda="EUR">45.00</precio_sobre>
   </generacion>
   <generacion id="G06">
     <nombre>Generación 6</nombre>
+    <region>Kalos</region>
+    <anio>2013</anio>
+    <primera_expansion>XY</primera_expansion>
+    <precio_sobre moneda="EUR">20.00</precio_sobre>
   </generacion>
   <generacion id="G07">
     <nombre>Generación 7</nombre>
+    <region>Alola</region>
+    <anio>2016</anio>
+    <primera_expansion>Sol y Luna</primera_expansion>
+    <precio_sobre moneda="EUR">12.50</precio_sobre>
   </generacion>
   <generacion id="G08">
     <nombre>Generación 8</nombre>
+    <region>Galar</region>
+    <anio>2019</anio>
+    <primera_expansion>Espada y Escudo</primera_expansion>
+    <precio_sobre moneda="EUR">5.95</precio_sobre>
   </generacion>
 </album>
