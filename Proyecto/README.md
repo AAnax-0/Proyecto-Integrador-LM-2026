@@ -14,9 +14,16 @@ Que he hecho esta tarea:
 - En xml guardé las ocho generaciones con su región, año, primera expansión y precio de un sobre.
 - Fui haciendo commits a medida que avanzaba y un psuh al terminar cada reto.
 
+## UD3 · Estructura HTML
+<!--Lista de al menos 3 cosas que faltan en el index.html-->
+- Completar el Head
+- Estructurar titulos, añadir citas, fichas y mas entidades
+- Crear paginas adicionales 
+
+
 ## Autoría
 
 - **Autor:** Alvaro Gonzalez Medina
 - **GitHub:** [AAnax-0](https://github.com/AAnax-0)
 - **Módulo:** Lenguajes de Marcas
-- **Curso:** 2026-27
+- **Palabra del día:**Contexto 
