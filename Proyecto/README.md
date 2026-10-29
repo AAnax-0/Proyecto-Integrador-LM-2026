@@ -20,6 +20,19 @@ Que he hecho esta tarea:
 - Estructurar titulos, añadir citas, fichas y mas entidades
 - Crear paginas adicionales 
 
+### Validación en validator.w3.org
+
+| Página | Errores del validador | Cómo lo corregí |
+| --- | --- | --- |
+| `index.html` | 0 errores | No tuvo errores. |
+| `generaciones.html` | 0 errores | No tuvo errores. |
+| `cartas.html` | 0 errores | No tuvo errores. |
+| `coleccionar.html` | 0 errores | No tuvo errores. |
+
+### Qué he hecho en esta unidad
+
+He completado el `head` de la portada y he reorganizado el `body` en bloques. Después he creado tres páginas nuevas (generaciones, tipos de cartas y coleccionar) con la misma estructura que la portada. Por último he validado todas las páginas en validator.w3.org y no me ha dado errores.
+
 ## Mapa del sitio
 
 | Fichero | title | Qué contiene |
