@@ -20,6 +20,15 @@ Que he hecho esta tarea:
 - Estructurar titulos, añadir citas, fichas y mas entidades
 - Crear paginas adicionales 
 
+## Mapa del sitio
+
+| Fichero | title | Qué contiene |
+| --- | --- | --- |
+| `index.html` | `Inicio \| Álbum de cartas Pokémon` | Portada: presentación del álbum, historia del juego, opinión del autor, lista y ficha de las generaciones y enlaces. |
+| `generaciones.html` | `Generaciones \| Álbum de cartas Pokémon` | Todas las generaciones de `datos.xml`: región, año, primera expansión y precio de un sobre de cada una. |
+| `cartas.html` | `Tipos de cartas \| Álbum de cartas Pokémon` | Las tres clases de cartas (Pokémon, Entrenador y Energía), los tipos de Pokémon y las partes de una carta. |
+| `coleccionar.html` | `Coleccionar \| Álbum de cartas Pokémon` | Rarezas, estado de conservación y consejos para guardar y cuidar las cartas. |
+
 
 ## Autoría
 
